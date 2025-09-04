@@ -1,19 +1,9 @@
-{
-  "season": 2025,
-  "updated_at": "2025-08-20",
-  "weeks": [
-    {
-      "week": 1,
-      "games": [
-        {"game_id":"2025W1-PHI-DAL","date":"2025-09-07","home":"PHI","away":"DAL","spread_home":-2.5,"win_proba_home":0.61},
-        {"game_id":"2025W1-KC-BUF","date":"2025-09-07","home":"KC","away":"BUF","spread_home":-1.5,"win_proba_home":0.55}
-      ]
-    },
-    {
-      "week": 2,
-      "games": [
-        {"game_id":"2025W2-NYJ-NE","date":"2025-09-14","home":"NYJ","away":"NE","spread_home":-3.0,"win_proba_home":0.58}
-      ]
-    }
-  ]
-}
+# (install deps if needed)
+pip install nfl_data_py xgboost scikit-learn pandas numpy joblib
+
+# train on 2024 + export 2025 predictions
+python train_2024_models_and_export.py \
+  --out-dir models_2024 \
+  --schedule 2025_schedule.csv \
+  --json-out data/nfl_2025_ai_predictions.json \
+  --season-out 2025
