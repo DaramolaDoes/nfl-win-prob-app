@@ -1,9 +1,0 @@
-# (install deps if needed)
-pip install nfl_data_py xgboost scikit-learn pandas numpy joblib
-
-# train on 2024 + export 2025 predictions
-python train_2024_models_and_export.py \
-  --out-dir models_2024 \
-  --schedule 2025_schedule.csv \
-  --json-out data/nfl_2025_ai_predictions.json \
-  --season-out 2025
