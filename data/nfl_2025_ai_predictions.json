@@ -1,0 +1,2272 @@
+{
+  "season": 2025,
+  "updated_at": "2025-09-05",
+  "weeks": [
+    {
+      "week": 1,
+      "games": [
+        {
+          "game_id": "2025W1-ATL-TB",
+          "date": null,
+          "home": "ATL",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4982348799022976
+        },
+        {
+          "game_id": "2025W1-BUF-BAL",
+          "date": null,
+          "home": "BUF",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.526454599929468
+        },
+        {
+          "game_id": "2025W1-CHI-MIN",
+          "date": null,
+          "home": "CHI",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4561860815522263
+        },
+        {
+          "game_id": "2025W1-CLE-CIN",
+          "date": null,
+          "home": "CLE",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4813058928065794
+        },
+        {
+          "game_id": "2025W1-DEN-TEN",
+          "date": null,
+          "home": "DEN",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4494956001703538
+        },
+        {
+          "game_id": "2025W1-GB-DET",
+          "date": null,
+          "home": "GB",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42153005216972
+        },
+        {
+          "game_id": "2025W1-IND-MIA",
+          "date": null,
+          "home": "IND",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5193971749000065
+        },
+        {
+          "game_id": "2025W1-JAX-CAR",
+          "date": null,
+          "home": "JAX",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4515767818829277
+        },
+        {
+          "game_id": "2025W1-LAC-KC",
+          "date": null,
+          "home": "LAC",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.40702902339555613
+        },
+        {
+          "game_id": "2025W1-LAR-HOU",
+          "date": null,
+          "home": "LAR",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47386903471809844
+        },
+        {
+          "game_id": "2025W1-NE-LV",
+          "date": null,
+          "home": "NE",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5001743522912102
+        },
+        {
+          "game_id": "2025W1-NO-ARI",
+          "date": null,
+          "home": "NO",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5441558912020024
+        },
+        {
+          "game_id": "2025W1-NYJ-PIT",
+          "date": null,
+          "home": "NYJ",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48402281249477896
+        },
+        {
+          "game_id": "2025W1-PHI-DAL",
+          "date": null,
+          "home": "PHI",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4242283693150362
+        },
+        {
+          "game_id": "2025W1-SEA-SF",
+          "date": null,
+          "home": "SEA",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5238966999792113
+        },
+        {
+          "game_id": "2025W1-WSH-NYG",
+          "date": null,
+          "home": "WSH",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5060548085348546
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "games": [
+        {
+          "game_id": "2025W2-ARI-CAR",
+          "date": null,
+          "home": "ARI",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42299930941004416
+        },
+        {
+          "game_id": "2025W2-BAL-CLE",
+          "date": null,
+          "home": "BAL",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42258300530524107
+        },
+        {
+          "game_id": "2025W2-CIN-JAX",
+          "date": null,
+          "home": "CIN",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5029065177383909
+        },
+        {
+          "game_id": "2025W2-DAL-NYG",
+          "date": null,
+          "home": "DAL",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4995618215063345
+        },
+        {
+          "game_id": "2025W2-DET-CHI",
+          "date": null,
+          "home": "DET",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4811500788900155
+        },
+        {
+          "game_id": "2025W2-GB-WSH",
+          "date": null,
+          "home": "GB",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.38848510291857263
+        },
+        {
+          "game_id": "2025W2-HOU-TB",
+          "date": null,
+          "home": "HOU",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5383990367708735
+        },
+        {
+          "game_id": "2025W2-IND-DEN",
+          "date": null,
+          "home": "IND",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.572161958357396
+        },
+        {
+          "game_id": "2025W2-KC-PHI",
+          "date": null,
+          "home": "KC",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5707864572900845
+        },
+        {
+          "game_id": "2025W2-LV-LAC",
+          "date": null,
+          "home": "LV",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49002048120028757
+        },
+        {
+          "game_id": "2025W2-MIA-NE",
+          "date": null,
+          "home": "MIA",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4787153444540775
+        },
+        {
+          "game_id": "2025W2-MIN-ATL",
+          "date": null,
+          "home": "MIN",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5294864731842058
+        },
+        {
+          "game_id": "2025W2-NO-SF",
+          "date": null,
+          "home": "NO",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5246246963622406
+        },
+        {
+          "game_id": "2025W2-NYJ-BUF",
+          "date": null,
+          "home": "NYJ",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49354979653004616
+        },
+        {
+          "game_id": "2025W2-PIT-SEA",
+          "date": null,
+          "home": "PIT",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4624094475215414
+        },
+        {
+          "game_id": "2025W2-TEN-LAR",
+          "date": null,
+          "home": "TEN",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45203338813703486
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "games": [
+        {
+          "game_id": "2025W3-BAL-DET",
+          "date": null,
+          "home": "BAL",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4309053842751669
+        },
+        {
+          "game_id": "2025W3-BUF-MIA",
+          "date": null,
+          "home": "BUF",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47248724106189854
+        },
+        {
+          "game_id": "2025W3-CAR-ATL",
+          "date": null,
+          "home": "CAR",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5222002012554499
+        },
+        {
+          "game_id": "2025W3-CHI-DAL",
+          "date": null,
+          "home": "CHI",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4563835510168419
+        },
+        {
+          "game_id": "2025W3-CLE-GB",
+          "date": null,
+          "home": "CLE",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5526563285530899
+        },
+        {
+          "game_id": "2025W3-JAX-HOU",
+          "date": null,
+          "home": "JAX",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4509256883202171
+        },
+        {
+          "game_id": "2025W3-LAC-DEN",
+          "date": null,
+          "home": "LAC",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.51488383923678
+        },
+        {
+          "game_id": "2025W3-MIN-CIN",
+          "date": null,
+          "home": "MIN",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5008317680523746
+        },
+        {
+          "game_id": "2025W3-NE-PIT",
+          "date": null,
+          "home": "NE",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4871817072418447
+        },
+        {
+          "game_id": "2025W3-NYG-KC",
+          "date": null,
+          "home": "NYG",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4364143089127432
+        },
+        {
+          "game_id": "2025W3-PHI-LAR",
+          "date": null,
+          "home": "PHI",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.43915263158831236
+        },
+        {
+          "game_id": "2025W3-SEA-NO",
+          "date": null,
+          "home": "SEA",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4818662790056671
+        },
+        {
+          "game_id": "2025W3-SF-ARI",
+          "date": null,
+          "home": "SF",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5022569510482555
+        },
+        {
+          "game_id": "2025W3-TB-NYJ",
+          "date": null,
+          "home": "TB",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.445831846042551
+        },
+        {
+          "game_id": "2025W3-TEN-IND",
+          "date": null,
+          "home": "TEN",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42644009234363
+        },
+        {
+          "game_id": "2025W3-WSH-LV",
+          "date": null,
+          "home": "WSH",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5288200773954378
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "games": [
+        {
+          "game_id": "2025W4-ARI-SEA",
+          "date": null,
+          "home": "ARI",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.422357687290036
+        },
+        {
+          "game_id": "2025W4-ATL-WSH",
+          "date": null,
+          "home": "ATL",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4299327635698551
+        },
+        {
+          "game_id": "2025W4-BUF-NO",
+          "date": null,
+          "home": "BUF",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4522293776296585
+        },
+        {
+          "game_id": "2025W4-DAL-GB",
+          "date": null,
+          "home": "DAL",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.571742840872528
+        },
+        {
+          "game_id": "2025W4-DEN-CIN",
+          "date": null,
+          "home": "DEN",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42201983434465434
+        },
+        {
+          "game_id": "2025W4-DET-CLE",
+          "date": null,
+          "home": "DET",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4741504070990614
+        },
+        {
+          "game_id": "2025W4-HOU-TEN",
+          "date": null,
+          "home": "HOU",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5221160993870725
+        },
+        {
+          "game_id": "2025W4-KC-BAL",
+          "date": null,
+          "home": "KC",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5912517214400335
+        },
+        {
+          "game_id": "2025W4-LAR-IND",
+          "date": null,
+          "home": "LAR",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45675034753457944
+        },
+        {
+          "game_id": "2025W4-LV-CHI",
+          "date": null,
+          "home": "LV",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4693041814656342
+        },
+        {
+          "game_id": "2025W4-MIA-NYJ",
+          "date": null,
+          "home": "MIA",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4818833954951574
+        },
+        {
+          "game_id": "2025W4-NE-CAR",
+          "date": null,
+          "home": "NE",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4675977844448981
+        },
+        {
+          "game_id": "2025W4-NYG-LAC",
+          "date": null,
+          "home": "NYG",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5127821031360384
+        },
+        {
+          "game_id": "2025W4-PIT-MIN",
+          "date": null,
+          "home": "PIT",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4558149475559055
+        },
+        {
+          "game_id": "2025W4-SF-JAX",
+          "date": null,
+          "home": "SF",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4732188571420029
+        },
+        {
+          "game_id": "2025W4-TB-PHI",
+          "date": null,
+          "home": "TB",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47936612195973477
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "games": [
+        {
+          "game_id": "2025W5-ARI-TEN",
+          "date": null,
+          "home": "ARI",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46132444711395637
+        },
+        {
+          "game_id": "2025W5-BAL-HOU",
+          "date": null,
+          "home": "BAL",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.41004458540713695
+        },
+        {
+          "game_id": "2025W5-BUF-NE",
+          "date": null,
+          "home": "BUF",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46856784420204717
+        },
+        {
+          "game_id": "2025W5-CAR-MIA",
+          "date": null,
+          "home": "CAR",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.501558687857813
+        },
+        {
+          "game_id": "2025W5-CIN-DET",
+          "date": null,
+          "home": "CIN",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4924351815826034
+        },
+        {
+          "game_id": "2025W5-CLE-MIN",
+          "date": null,
+          "home": "CLE",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4631314756399825
+        },
+        {
+          "game_id": "2025W5-IND-LV",
+          "date": null,
+          "home": "IND",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5329907427742471
+        },
+        {
+          "game_id": "2025W5-JAX-KC",
+          "date": null,
+          "home": "JAX",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4155104800461842
+        },
+        {
+          "game_id": "2025W5-LAC-WSH",
+          "date": null,
+          "home": "LAC",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4295712545343314
+        },
+        {
+          "game_id": "2025W5-LAR-SF",
+          "date": null,
+          "home": "LAR",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5151318437154995
+        },
+        {
+          "game_id": "2025W5-NO-NYG",
+          "date": null,
+          "home": "NO",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4937994285471636
+        },
+        {
+          "game_id": "2025W5-NYJ-DAL",
+          "date": null,
+          "home": "NYJ",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4574047943861469
+        },
+        {
+          "game_id": "2025W5-PHI-DEN",
+          "date": null,
+          "home": "PHI",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5029482228828791
+        },
+        {
+          "game_id": "2025W5-SEA-TB",
+          "date": null,
+          "home": "SEA",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.538391220402356
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "games": [
+        {
+          "game_id": "2025W6-ATL-BUF",
+          "date": null,
+          "home": "ATL",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4721969898542802
+        },
+        {
+          "game_id": "2025W6-BAL-LAR",
+          "date": null,
+          "home": "BAL",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4185688327223722
+        },
+        {
+          "game_id": "2025W6-CAR-DAL",
+          "date": null,
+          "home": "CAR",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4755221678040541
+        },
+        {
+          "game_id": "2025W6-GB-CIN",
+          "date": null,
+          "home": "GB",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.41197764582533974
+        },
+        {
+          "game_id": "2025W6-IND-ARI",
+          "date": null,
+          "home": "IND",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5603991689259826
+        },
+        {
+          "game_id": "2025W6-JAX-SEA",
+          "date": null,
+          "home": "JAX",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4509179013421027
+        },
+        {
+          "game_id": "2025W6-KC-DET",
+          "date": null,
+          "home": "KC",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5399568138408294
+        },
+        {
+          "game_id": "2025W6-LV-TEN",
+          "date": null,
+          "home": "LV",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4888860857672864
+        },
+        {
+          "game_id": "2025W6-MIA-LAC",
+          "date": null,
+          "home": "MIA",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5036454442246979
+        },
+        {
+          "game_id": "2025W6-NO-NE",
+          "date": null,
+          "home": "NO",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49902853269654146
+        },
+        {
+          "game_id": "2025W6-NYG-PHI",
+          "date": null,
+          "home": "NYG",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5247227757866132
+        },
+        {
+          "game_id": "2025W6-NYJ-DEN",
+          "date": null,
+          "home": "NYJ",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5365518944895928
+        },
+        {
+          "game_id": "2025W6-PIT-CLE",
+          "date": null,
+          "home": "PIT",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47524086784623576
+        },
+        {
+          "game_id": "2025W6-TB-SF",
+          "date": null,
+          "home": "TB",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4680814131229517
+        },
+        {
+          "game_id": "2025W6-WSH-CHI",
+          "date": null,
+          "home": "WSH",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5154742340108039
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "games": [
+        {
+          "game_id": "2025W7-ARI-GB",
+          "date": null,
+          "home": "ARI",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5048652804404357
+        },
+        {
+          "game_id": "2025W7-CHI-NO",
+          "date": null,
+          "home": "CHI",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4620151641459414
+        },
+        {
+          "game_id": "2025W7-CIN-PIT",
+          "date": null,
+          "home": "CIN",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49130582164096304
+        },
+        {
+          "game_id": "2025W7-CLE-MIA",
+          "date": null,
+          "home": "CLE",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4893185401504528
+        },
+        {
+          "game_id": "2025W7-DAL-WSH",
+          "date": null,
+          "home": "DAL",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47620847616104367
+        },
+        {
+          "game_id": "2025W7-DEN-NYG",
+          "date": null,
+          "home": "DEN",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4209154874561003
+        },
+        {
+          "game_id": "2025W7-DET-TB",
+          "date": null,
+          "home": "DET",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5170843645764642
+        },
+        {
+          "game_id": "2025W7-JAX-LAR",
+          "date": null,
+          "home": "JAX",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45962985339939577
+        },
+        {
+          "game_id": "2025W7-KC-LV",
+          "date": null,
+          "home": "KC",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5517197174481878
+        },
+        {
+          "game_id": "2025W7-LAC-IND",
+          "date": null,
+          "home": "LAC",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4253554644615065
+        },
+        {
+          "game_id": "2025W7-MIN-PHI",
+          "date": null,
+          "home": "MIN",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5417483085257504
+        },
+        {
+          "game_id": "2025W7-NYJ-CAR",
+          "date": null,
+          "home": "NYJ",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46443782800453454
+        },
+        {
+          "game_id": "2025W7-SEA-HOU",
+          "date": null,
+          "home": "SEA",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.482604473692934
+        },
+        {
+          "game_id": "2025W7-SF-ATL",
+          "date": null,
+          "home": "SF",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4816039179147698
+        },
+        {
+          "game_id": "2025W7-TEN-NE",
+          "date": null,
+          "home": "TEN",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45887647134665804
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "games": [
+        {
+          "game_id": "2025W8-ATL-MIA",
+          "date": null,
+          "home": "ATL",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46204938079117563
+        },
+        {
+          "game_id": "2025W8-BAL-CHI",
+          "date": null,
+          "home": "BAL",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4294225608548627
+        },
+        {
+          "game_id": "2025W8-CAR-BUF",
+          "date": null,
+          "home": "CAR",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5117354633158099
+        },
+        {
+          "game_id": "2025W8-CIN-NYJ",
+          "date": null,
+          "home": "CIN",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48990198572158994
+        },
+        {
+          "game_id": "2025W8-DEN-DAL",
+          "date": null,
+          "home": "DEN",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4045357449664577
+        },
+        {
+          "game_id": "2025W8-HOU-SF",
+          "date": null,
+          "home": "HOU",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5238783954769911
+        },
+        {
+          "game_id": "2025W8-IND-TEN",
+          "date": null,
+          "home": "IND",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5392091598084672
+        },
+        {
+          "game_id": "2025W8-KC-WSH",
+          "date": null,
+          "home": "KC",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5057420829696536
+        },
+        {
+          "game_id": "2025W8-LAC-MIN",
+          "date": null,
+          "home": "LAC",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4357102138193577
+        },
+        {
+          "game_id": "2025W8-NE-CLE",
+          "date": null,
+          "home": "NE",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4797934396706247
+        },
+        {
+          "game_id": "2025W8-NO-TB",
+          "date": null,
+          "home": "NO",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5391113412992942
+        },
+        {
+          "game_id": "2025W8-PHI-NYG",
+          "date": null,
+          "home": "PHI",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4407945218304837
+        },
+        {
+          "game_id": "2025W8-PIT-GB",
+          "date": null,
+          "home": "PIT",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5453465797958748
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "games": [
+        {
+          "game_id": "2025W9-BUF-KC",
+          "date": null,
+          "home": "BUF",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.41751088402619535
+        },
+        {
+          "game_id": "2025W9-CIN-CHI",
+          "date": null,
+          "home": "CIN",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4909258940789986
+        },
+        {
+          "game_id": "2025W9-DAL-ARI",
+          "date": null,
+          "home": "DAL",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5498390488668867
+        },
+        {
+          "game_id": "2025W9-DET-MIN",
+          "date": null,
+          "home": "DET",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45471223919767
+        },
+        {
+          "game_id": "2025W9-GB-CAR",
+          "date": null,
+          "home": "GB",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4014149532197265
+        },
+        {
+          "game_id": "2025W9-HOU-DEN",
+          "date": null,
+          "home": "HOU",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5552546339161611
+        },
+        {
+          "game_id": "2025W9-LAR-NO",
+          "date": null,
+          "home": "LAR",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47310062313065554
+        },
+        {
+          "game_id": "2025W9-LV-JAX",
+          "date": null,
+          "home": "LV",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4812245647536008
+        },
+        {
+          "game_id": "2025W9-MIA-BAL",
+          "date": null,
+          "home": "MIA",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5365612575148874
+        },
+        {
+          "game_id": "2025W9-NE-ATL",
+          "date": null,
+          "home": "NE",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5071614545729939
+        },
+        {
+          "game_id": "2025W9-NYG-SF",
+          "date": null,
+          "home": "NYG",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5134206601488754
+        },
+        {
+          "game_id": "2025W9-PIT-IND",
+          "date": null,
+          "home": "PIT",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4453439603552625
+        },
+        {
+          "game_id": "2025W9-TEN-LAC",
+          "date": null,
+          "home": "TEN",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48373738087309187
+        },
+        {
+          "game_id": "2025W9-WSH-SEA",
+          "date": null,
+          "home": "WSH",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4955701696957524
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "games": [
+        {
+          "game_id": "2025W10-CAR-NO",
+          "date": null,
+          "home": "CAR",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48118090486770293
+        },
+        {
+          "game_id": "2025W10-CHI-NYG",
+          "date": null,
+          "home": "CHI",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4731734531487746
+        },
+        {
+          "game_id": "2025W10-DEN-LV",
+          "date": null,
+          "home": "DEN",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4432853721770849
+        },
+        {
+          "game_id": "2025W10-GB-PHI",
+          "date": null,
+          "home": "GB",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45221131755954075
+        },
+        {
+          "game_id": "2025W10-HOU-JAX",
+          "date": null,
+          "home": "HOU",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5144501293956951
+        },
+        {
+          "game_id": "2025W10-IND-ATL",
+          "date": null,
+          "home": "IND",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5399488651198001
+        },
+        {
+          "game_id": "2025W10-LAC-PIT",
+          "date": null,
+          "home": "LAC",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46232846644696657
+        },
+        {
+          "game_id": "2025W10-MIA-BUF",
+          "date": null,
+          "home": "MIA",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4927966344052213
+        },
+        {
+          "game_id": "2025W10-MIN-BAL",
+          "date": null,
+          "home": "MIN",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5625343969927414
+        },
+        {
+          "game_id": "2025W10-NYJ-CLE",
+          "date": null,
+          "home": "NYJ",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4766274640180802
+        },
+        {
+          "game_id": "2025W10-SEA-ARI",
+          "date": null,
+          "home": "SEA",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5434057634382264
+        },
+        {
+          "game_id": "2025W10-SF-LAR",
+          "date": null,
+          "home": "SF",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45026301748402686
+        },
+        {
+          "game_id": "2025W10-TB-NE",
+          "date": null,
+          "home": "TB",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4426750170781312
+        },
+        {
+          "game_id": "2025W10-WSH-DET",
+          "date": null,
+          "home": "WSH",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5169614059806861
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "games": [
+        {
+          "game_id": "2025W11-ARI-SF",
+          "date": null,
+          "home": "ARI",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4630751737568197
+        },
+        {
+          "game_id": "2025W11-ATL-CAR",
+          "date": null,
+          "home": "ATL",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.44324221345706927
+        },
+        {
+          "game_id": "2025W11-BUF-TB",
+          "date": null,
+          "home": "BUF",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5086778601289491
+        },
+        {
+          "game_id": "2025W11-CLE-BAL",
+          "date": null,
+          "home": "CLE",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5432130161941309
+        },
+        {
+          "game_id": "2025W11-DEN-KC",
+          "date": null,
+          "home": "DEN",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.37632096996169623
+        },
+        {
+          "game_id": "2025W11-JAX-LAC",
+          "date": null,
+          "home": "JAX",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4913967171681737
+        },
+        {
+          "game_id": "2025W11-LAR-SEA",
+          "date": null,
+          "home": "LAR",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.473842897264786
+        },
+        {
+          "game_id": "2025W11-LV-DAL",
+          "date": null,
+          "home": "LV",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.44316312793290874
+        },
+        {
+          "game_id": "2025W11-MIA-WSH",
+          "date": null,
+          "home": "MIA",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4502537465059719
+        },
+        {
+          "game_id": "2025W11-MIN-CHI",
+          "date": null,
+          "home": "MIN",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5091225491769343
+        },
+        {
+          "game_id": "2025W11-NE-NYJ",
+          "date": null,
+          "home": "NE",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4857600706584003
+        },
+        {
+          "game_id": "2025W11-NYG-GB",
+          "date": null,
+          "home": "NYG",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5550417961400117
+        },
+        {
+          "game_id": "2025W11-PHI-DET",
+          "date": null,
+          "home": "PHI",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.451596064318558
+        },
+        {
+          "game_id": "2025W11-PIT-CIN",
+          "date": null,
+          "home": "PIT",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47392696709450116
+        },
+        {
+          "game_id": "2025W11-TEN-HOU",
+          "date": null,
+          "home": "TEN",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4433214160378605
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "games": [
+        {
+          "game_id": "2025W12-ARI-JAX",
+          "date": null,
+          "home": "ARI",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4537010416591014
+        },
+        {
+          "game_id": "2025W12-BAL-NYJ",
+          "date": null,
+          "home": "BAL",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4284061398996027
+        },
+        {
+          "game_id": "2025W12-CHI-PIT",
+          "date": null,
+          "home": "CHI",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4829610088371973
+        },
+        {
+          "game_id": "2025W12-CIN-NE",
+          "date": null,
+          "home": "CIN",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4867150268920449
+        },
+        {
+          "game_id": "2025W12-DAL-PHI",
+          "date": null,
+          "home": "DAL",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5415881727825812
+        },
+        {
+          "game_id": "2025W12-DET-NYG",
+          "date": null,
+          "home": "DET",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47170800724508205
+        },
+        {
+          "game_id": "2025W12-GB-MIN",
+          "date": null,
+          "home": "GB",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.3944253865795147
+        },
+        {
+          "game_id": "2025W12-HOU-BUF",
+          "date": null,
+          "home": "HOU",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5123925618509378
+        },
+        {
+          "game_id": "2025W12-KC-IND",
+          "date": null,
+          "home": "KC",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5014306372122007
+        },
+        {
+          "game_id": "2025W12-LAR-TB",
+          "date": null,
+          "home": "LAR",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5296458040078464
+        },
+        {
+          "game_id": "2025W12-LV-CLE",
+          "date": null,
+          "home": "LV",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4623076483869373
+        },
+        {
+          "game_id": "2025W12-NO-ATL",
+          "date": null,
+          "home": "NO",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5235740280295614
+        },
+        {
+          "game_id": "2025W12-SF-CAR",
+          "date": null,
+          "home": "SF",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.44221906148273327
+        },
+        {
+          "game_id": "2025W12-TEN-SEA",
+          "date": null,
+          "home": "TEN",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4433188288066921
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "games": [
+        {
+          "game_id": "2025W13-BAL-CIN",
+          "date": null,
+          "home": "BAL",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42128247196111007
+        },
+        {
+          "game_id": "2025W13-CAR-LAR",
+          "date": null,
+          "home": "CAR",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49069990915351636
+        },
+        {
+          "game_id": "2025W13-CLE-SF",
+          "date": null,
+          "home": "CLE",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5109772035492421
+        },
+        {
+          "game_id": "2025W13-DAL-KC",
+          "date": null,
+          "home": "DAL",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4531371552360562
+        },
+        {
+          "game_id": "2025W13-DET-GB",
+          "date": null,
+          "home": "DET",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5442438948579404
+        },
+        {
+          "game_id": "2025W13-IND-HOU",
+          "date": null,
+          "home": "IND",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49975149756736514
+        },
+        {
+          "game_id": "2025W13-LAC-LV",
+          "date": null,
+          "home": "LAC",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47525951167591624
+        },
+        {
+          "game_id": "2025W13-MIA-NO",
+          "date": null,
+          "home": "MIA",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4622995973087822
+        },
+        {
+          "game_id": "2025W13-NE-NYG",
+          "date": null,
+          "home": "NE",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4773562053708085
+        },
+        {
+          "game_id": "2025W13-NYJ-ATL",
+          "date": null,
+          "home": "NYJ",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5039846077542506
+        },
+        {
+          "game_id": "2025W13-PHI-CHI",
+          "date": null,
+          "home": "PHI",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45010613750463757
+        },
+        {
+          "game_id": "2025W13-PIT-BUF",
+          "date": null,
+          "home": "PIT",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49212096047726456
+        },
+        {
+          "game_id": "2025W13-SEA-MIN",
+          "date": null,
+          "home": "SEA",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47596650589564016
+        },
+        {
+          "game_id": "2025W13-TB-ARI",
+          "date": null,
+          "home": "TB",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48764608336721665
+        },
+        {
+          "game_id": "2025W13-TEN-JAX",
+          "date": null,
+          "home": "TEN",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47495705440235003
+        },
+        {
+          "game_id": "2025W13-WSH-DEN",
+          "date": null,
+          "home": "WSH",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5680241739162041
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "games": [
+        {
+          "game_id": "2025W14-ARI-LAR",
+          "date": null,
+          "home": "ARI",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.43092778585164565
+        },
+        {
+          "game_id": "2025W14-ATL-SEA",
+          "date": null,
+          "home": "ATL",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4425908524603247
+        },
+        {
+          "game_id": "2025W14-BAL-PIT",
+          "date": null,
+          "home": "BAL",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42977452218436196
+        },
+        {
+          "game_id": "2025W14-BUF-CIN",
+          "date": null,
+          "home": "BUF",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4644551874861594
+        },
+        {
+          "game_id": "2025W14-CLE-TEN",
+          "date": null,
+          "home": "CLE",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.509198791141012
+        },
+        {
+          "game_id": "2025W14-DET-DAL",
+          "date": null,
+          "home": "DET",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4549018055852569
+        },
+        {
+          "game_id": "2025W14-GB-CHI",
+          "date": null,
+          "home": "GB",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.42003524669448944
+        },
+        {
+          "game_id": "2025W14-JAX-IND",
+          "date": null,
+          "home": "JAX",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.43393161294184446
+        },
+        {
+          "game_id": "2025W14-KC-HOU",
+          "date": null,
+          "home": "KC",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5186121436689572
+        },
+        {
+          "game_id": "2025W14-LAC-PHI",
+          "date": null,
+          "home": "LAC",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4945835531849001
+        },
+        {
+          "game_id": "2025W14-LV-DEN",
+          "date": null,
+          "home": "LV",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5222124477993555
+        },
+        {
+          "game_id": "2025W14-MIN-WSH",
+          "date": null,
+          "home": "MIN",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4763379885891038
+        },
+        {
+          "game_id": "2025W14-NYJ-MIA",
+          "date": null,
+          "home": "NYJ",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4833373713985086
+        },
+        {
+          "game_id": "2025W14-TB-NO",
+          "date": null,
+          "home": "TB",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4265019742484694
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "games": [
+        {
+          "game_id": "2025W15-CHI-CLE",
+          "date": null,
+          "home": "CHI",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4755826188685015
+        },
+        {
+          "game_id": "2025W15-CIN-BAL",
+          "date": null,
+          "home": "CIN",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5445282578403585
+        },
+        {
+          "game_id": "2025W15-DAL-MIN",
+          "date": null,
+          "home": "DAL",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48243714097055995
+        },
+        {
+          "game_id": "2025W15-DEN-GB",
+          "date": null,
+          "home": "DEN",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4929102029683081
+        },
+        {
+          "game_id": "2025W15-HOU-ARI",
+          "date": null,
+          "home": "HOU",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5433927576126618
+        },
+        {
+          "game_id": "2025W15-JAX-NYJ",
+          "date": null,
+          "home": "JAX",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46964746159416987
+        },
+        {
+          "game_id": "2025W15-KC-LAC",
+          "date": null,
+          "home": "KC",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5589917379129791
+        },
+        {
+          "game_id": "2025W15-LAR-DET",
+          "date": null,
+          "home": "LAR",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4952091426944507
+        },
+        {
+          "game_id": "2025W15-NE-BUF",
+          "date": null,
+          "home": "NE",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.49668218412701204
+        },
+        {
+          "game_id": "2025W15-NO-CAR",
+          "date": null,
+          "home": "NO",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4839664176644772
+        },
+        {
+          "game_id": "2025W15-NYG-WSH",
+          "date": null,
+          "home": "NYG",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4593025115652508
+        },
+        {
+          "game_id": "2025W15-PHI-LV",
+          "date": null,
+          "home": "PHI",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46336507970837254
+        },
+        {
+          "game_id": "2025W15-PIT-MIA",
+          "date": null,
+          "home": "PIT",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4819361427890436
+        },
+        {
+          "game_id": "2025W15-SEA-IND",
+          "date": null,
+          "home": "SEA",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46543634803343503
+        },
+        {
+          "game_id": "2025W15-SF-TEN",
+          "date": null,
+          "home": "SF",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4808344264846439
+        },
+        {
+          "game_id": "2025W15-TB-ATL",
+          "date": null,
+          "home": "TB",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46703534159819016
+        }
+      ]
+    },
+    {
+      "week": 16,
+      "games": [
+        {
+          "game_id": "2025W16-ARI-ATL",
+          "date": null,
+          "home": "ARI",
+          "away": "ATL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46204099540880794
+        },
+        {
+          "game_id": "2025W16-BAL-NE",
+          "date": null,
+          "home": "BAL",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4252856958769793
+        },
+        {
+          "game_id": "2025W16-CAR-TB",
+          "date": null,
+          "home": "CAR",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5376984596529497
+        },
+        {
+          "game_id": "2025W16-CHI-GB",
+          "date": null,
+          "home": "CHI",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5456889193634206
+        },
+        {
+          "game_id": "2025W16-CLE-BUF",
+          "date": null,
+          "home": "CLE",
+          "away": "BUF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4994801155945323
+        },
+        {
+          "game_id": "2025W16-DAL-LAC",
+          "date": null,
+          "home": "DAL",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5296757701673345
+        },
+        {
+          "game_id": "2025W16-DEN-JAX",
+          "date": null,
+          "home": "DEN",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4418866253950472
+        },
+        {
+          "game_id": "2025W16-DET-PIT",
+          "date": null,
+          "home": "DET",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48148771988326805
+        },
+        {
+          "game_id": "2025W16-HOU-LV",
+          "date": null,
+          "home": "HOU",
+          "away": "LV",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5158348437094795
+        },
+        {
+          "game_id": "2025W16-IND-SF",
+          "date": null,
+          "home": "IND",
+          "away": "SF",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5409534270679205
+        },
+        {
+          "game_id": "2025W16-MIA-CIN",
+          "date": null,
+          "home": "MIA",
+          "away": "CIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4745800911021183
+        },
+        {
+          "game_id": "2025W16-NO-NYJ",
+          "date": null,
+          "home": "NO",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.502180538018565
+        },
+        {
+          "game_id": "2025W16-NYG-MIN",
+          "date": null,
+          "home": "NYG",
+          "away": "MIN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4655248297811116
+        },
+        {
+          "game_id": "2025W16-SEA-LAR",
+          "date": null,
+          "home": "SEA",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4913597989023695
+        },
+        {
+          "game_id": "2025W16-TEN-KC",
+          "date": null,
+          "home": "TEN",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.40805199340807013
+        },
+        {
+          "game_id": "2025W16-WSH-PHI",
+          "date": null,
+          "home": "WSH",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5480162301912207
+        }
+      ]
+    },
+    {
+      "week": 17,
+      "games": [
+        {
+          "game_id": "2025W17-ATL-LAR",
+          "date": null,
+          "home": "ATL",
+          "away": "LAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4512689544739283
+        },
+        {
+          "game_id": "2025W17-BUF-PHI",
+          "date": null,
+          "home": "BUF",
+          "away": "PHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5054115030992411
+        },
+        {
+          "game_id": "2025W17-CAR-SEA",
+          "date": null,
+          "home": "CAR",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48191117372207487
+        },
+        {
+          "game_id": "2025W17-CIN-ARI",
+          "date": null,
+          "home": "CIN",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5318850529843402
+        },
+        {
+          "game_id": "2025W17-CLE-PIT",
+          "date": null,
+          "home": "CLE",
+          "away": "PIT",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48994416218286535
+        },
+        {
+          "game_id": "2025W17-GB-BAL",
+          "date": null,
+          "home": "GB",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47309833279611657
+        },
+        {
+          "game_id": "2025W17-IND-JAX",
+          "date": null,
+          "home": "IND",
+          "away": "JAX",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5315635533219453
+        },
+        {
+          "game_id": "2025W17-KC-DEN",
+          "date": null,
+          "home": "KC",
+          "away": "DEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5904939244999062
+        },
+        {
+          "game_id": "2025W17-LAC-HOU",
+          "date": null,
+          "home": "LAC",
+          "away": "HOU",
+          "spread_home": 0.0,
+          "win_proba_home": 0.44222178472415774
+        },
+        {
+          "game_id": "2025W17-LV-NYG",
+          "date": null,
+          "home": "LV",
+          "away": "NYG",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45988071452912155
+        },
+        {
+          "game_id": "2025W17-MIA-TB",
+          "date": null,
+          "home": "MIA",
+          "away": "TB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5188223781485062
+        },
+        {
+          "game_id": "2025W17-MIN-DET",
+          "date": null,
+          "home": "MIN",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5106054682275992
+        },
+        {
+          "game_id": "2025W17-NYJ-NE",
+          "date": null,
+          "home": "NYJ",
+          "away": "NE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47940715071762247
+        },
+        {
+          "game_id": "2025W17-SF-CHI",
+          "date": null,
+          "home": "SF",
+          "away": "CHI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46127354306707996
+        },
+        {
+          "game_id": "2025W17-TEN-NO",
+          "date": null,
+          "home": "TEN",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.442566045203834
+        },
+        {
+          "game_id": "2025W17-WSH-DAL",
+          "date": null,
+          "home": "WSH",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48912128239003505
+        }
+      ]
+    },
+    {
+      "week": 18,
+      "games": [
+        {
+          "game_id": "2025W18-ATL-NO",
+          "date": null,
+          "home": "ATL",
+          "away": "NO",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4418409093229116
+        },
+        {
+          "game_id": "2025W18-BUF-NYJ",
+          "date": null,
+          "home": "BUF",
+          "away": "NYJ",
+          "spread_home": 0.0,
+          "win_proba_home": 0.47170077355807144
+        },
+        {
+          "game_id": "2025W18-CHI-DET",
+          "date": null,
+          "home": "CHI",
+          "away": "DET",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4840684949398607
+        },
+        {
+          "game_id": "2025W18-CIN-CLE",
+          "date": null,
+          "home": "CIN",
+          "away": "CLE",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48389831972039477
+        },
+        {
+          "game_id": "2025W18-DEN-LAC",
+          "date": null,
+          "home": "DEN",
+          "away": "LAC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.45056467588312177
+        },
+        {
+          "game_id": "2025W18-HOU-IND",
+          "date": null,
+          "home": "HOU",
+          "away": "IND",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4654285228816353
+        },
+        {
+          "game_id": "2025W18-JAX-TEN",
+          "date": null,
+          "home": "JAX",
+          "away": "TEN",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4902543388074093
+        },
+        {
+          "game_id": "2025W18-LAR-ARI",
+          "date": null,
+          "home": "LAR",
+          "away": "ARI",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5346706314987363
+        },
+        {
+          "game_id": "2025W18-LV-KC",
+          "date": null,
+          "home": "LV",
+          "away": "KC",
+          "spread_home": 0.0,
+          "win_proba_home": 0.41411774366465104
+        },
+        {
+          "game_id": "2025W18-MIN-GB",
+          "date": null,
+          "home": "MIN",
+          "away": "GB",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5718520010098879
+        },
+        {
+          "game_id": "2025W18-NE-MIA",
+          "date": null,
+          "home": "NE",
+          "away": "MIA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.48649077255273904
+        },
+        {
+          "game_id": "2025W18-NYG-DAL",
+          "date": null,
+          "home": "NYG",
+          "away": "DAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.46572287973936727
+        },
+        {
+          "game_id": "2025W18-PHI-WSH",
+          "date": null,
+          "home": "PHI",
+          "away": "WSH",
+          "spread_home": 0.0,
+          "win_proba_home": 0.41788156280803934
+        },
+        {
+          "game_id": "2025W18-PIT-BAL",
+          "date": null,
+          "home": "PIT",
+          "away": "BAL",
+          "spread_home": 0.0,
+          "win_proba_home": 0.5358733328133923
+        },
+        {
+          "game_id": "2025W18-SF-SEA",
+          "date": null,
+          "home": "SF",
+          "away": "SEA",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4415602562274
+        },
+        {
+          "game_id": "2025W18-TB-CAR",
+          "date": null,
+          "home": "TB",
+          "away": "CAR",
+          "spread_home": 0.0,
+          "win_proba_home": 0.4278636944793143
+        }
+      ]
+    }
+  ]
+}
